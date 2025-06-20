@@ -1,0 +1,16 @@
+python-dotenv
+langchain
+langchain-groq
+langchain-core
+langchain-community
+pypdf
+pymupdf
+numpy==1.26.4
+langchain_milvus
+langchain-openai
+pymilvus
+python-docx
+langchain-huggingface
+langgraph
+chromadb
+duckduckgo-search
